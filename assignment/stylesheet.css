@@ -1,0 +1,17 @@
+#topPage {
+background-color: #800000;
+color: #DAD4B5;
+text-align: center;
+}
+
+main {
+   background-color: #dbd8cd; 
+   padding: 1em;
+}
+
+body {
+    background-image: url('record.png');
+    background-repeat: repeat;
+    margin: 0;
+    padding: ;
+}
